@@ -4,3 +4,5 @@ html
 css
 js
 jquery
+
+estos y otros mas son impprtantes en el desarrollo web
